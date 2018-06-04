@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ChessBoard Calibration", "ChessBoard Calibration\ChessBoard Calibration.pyproj", "{244AE8C7-CF66-4353-99F9-93AFD954EC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244AE8C7-CF66-4353-99F9-93AFD954EC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244AE8C7-CF66-4353-99F9-93AFD954EC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569853E2-5B8D-422F-9182-5523D6101E15}
+	EndGlobalSection
+EndGlobal
